@@ -67,7 +67,7 @@ button:hover {
 
 }
 
-button {
+button, input {
 	border: none;
 	background: none;
 	text-transform: uppercase;
