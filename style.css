@@ -33,6 +33,11 @@ h1 {
 	font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
 	text-shadow: 2.7px 1.7px 0px rgba(255,255,255,0.2);
 }
+a{
+	text-decoration: none;
+	color: white;
+}
+
 
 #message{
 	display: inline-block;
